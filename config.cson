@@ -1,0 +1,64 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#515151"
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+  autosave: {}
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".hgrc"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "nuclide"
+    ]
+    excludeVcsIgnoredPaths: false
+    telemetryConsent: "no"
+    themes: [
+      "predawn-ui"
+      "predawn-syntax"
+    ]
+  docblockr: {}
+  editor: {}
+  "exception-reporting":
+    userId: "fed7b181-a86a-6e30-f6ca-9e8dd5f48cd6"
+  "file-icons":
+    coloured: false
+  "goto-definition": {}
+  nuclide:
+    installRecommendedPackages: true
+    "nuclide-code-format":
+      formatOnSave: true
+    "nuclide-hg-repository": {}
+    "nuclide-home":
+      showHome: false
+  "platformio-ide-terminal":
+    toggles:
+      autoClose: true
+  "seti-ui":
+    fileIcons: false
+    themeColor: "Steel"
+  "terminal-plus":
+    toggles:
+      autoClose: true
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
