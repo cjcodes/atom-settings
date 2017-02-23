@@ -48,6 +48,27 @@
     "nuclide-home":
       showHome: false
   "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        black: "#232323"
+        blue: "#bddcdc"
+        cyan: "#92bfbf"
+        green: "#b4d388"
+        magenta: "#f18260"
+        red: "#c42d29"
+        white: "#f1f1f1"
+        yellow: "#ffd949"
+      zBright:
+        brightBlack: "#797979"
+        brightBlue: "#b2eeef"
+        brightCyan: "#b2eeef"
+        brightGreen: "#cdefa5"
+        brightMagenta: "#f49d62"
+        brightRed: "#ff2606"
+        brightWhite: "#f1f1f1"
+        brightYellow: "#ede480"
+    style:
+      fontSize: "12"
     toggles:
       autoClose: true
   "seti-ui":
