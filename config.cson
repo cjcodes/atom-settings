@@ -26,6 +26,9 @@
       ]
     disabledPackages: [
       "nuclide"
+      "tool-bar"
+      "goto-definition"
+      "linter-phpcs"
     ]
     excludeVcsIgnoredPaths: false
     telemetryConsent: "no"
@@ -33,13 +36,17 @@
       "predawn-ui"
       "predawn-syntax"
     ]
+    useCustomTitleBar: true
   docblockr: {}
   editor: {}
   "exception-reporting":
     userId: "fed7b181-a86a-6e30-f6ca-9e8dd5f48cd6"
-  "file-icons":
-    coloured: false
+  "file-icons": {}
   "goto-definition": {}
+  hyperclick: {}
+  "linter-phpcs": {}
+  "linter-phpmd":
+    rulesets: "unusedcode"
   nuclide:
     installRecommendedPackages: true
     "nuclide-code-format":
@@ -71,6 +78,7 @@
       fontSize: "12"
     toggles:
       autoClose: true
+  "project-manager": {}
   "seti-ui":
     fileIcons: false
     themeColor: "Steel"
