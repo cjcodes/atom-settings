@@ -1,6 +1,7 @@
 artisan
 atom-material-syntax
 atom-material-ui
+autocomplete-python
 color-picker
 docblockr
 editorconfig
@@ -19,12 +20,11 @@ language-swift
 language-thrift
 linter
 linter-php
-linter-phpcs
 linter-phpmd
+markdown-preview-plus
 merge-conflicts
 monokai
 monokai-seti
-nuclide
 nuclide-format-js
 php-integrator-autocomplete-plus
 php-integrator-base
