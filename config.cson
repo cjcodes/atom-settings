@@ -47,6 +47,7 @@
   "linter-phpcs": {}
   "linter-phpmd":
     rulesets: "unusedcode"
+  "linter-ui-default": {}
   nuclide:
     installRecommendedPackages: true
     "nuclide-code-format":
